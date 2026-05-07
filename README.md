@@ -6,7 +6,7 @@
   <img src="https://github.com/Miaga-o/Miaga-o/blob/aa32ee2a71129e96410e464053afaab405946c4f/wow-really-cool-art-by-tkmiz-glt-author-yay.jpg">
   <p align="center">
     tkmiz art!!! <br>
-    <img src="https://skills.syvixor.com/api/icons?perline=1&i=typst"> <img src="https://skillicons.dev/icons?i=latex,matlab">
+    <img src="https://skills.syvixor.com/api/icons?perline=1&i=typst"> <img src="https://skillicons.dev/icons?i=latex"> <img src="https://skillicons.dev/icons?i=matlab">
   </p>
 </div>
 
